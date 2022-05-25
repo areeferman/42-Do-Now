@@ -1,0 +1,16 @@
+h2 {
+	padding:25px;
+	margin:30px;
+    color: white;
+    
+}
+
+.greenContent {
+    background-color:green;
+    border:5px solid lightgreen;
+}
+
+.blueContent {
+    background-color:blue;
+    border: 10px dashed lightblue;
+}
